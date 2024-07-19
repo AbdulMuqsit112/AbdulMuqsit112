@@ -11,7 +11,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS / RUBY ON RAILS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMuqsit112)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/AbdulMuqsit112)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AbdulMuqsit112)  
-
